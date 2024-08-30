@@ -50,7 +50,7 @@
 <p align="center">
 
 
-- 🌱 LEARNING --> PYTHON, STATISTICS CALCULUS, LINEAR ALGEBRA, MACHINE LEARNING, DEEP LEARNING <--
+- 🌱 LEARNING --> PYTHON, STATISTICS, CALCULUS, LINEAR ALGEBRA, MACHINE LEARNING, DEEP LEARNING <--
 - 💬 Ask me about Whatever field related to Neurocience
 - ⚡ Fun fact: I love Hawaiian pizza
 
