@@ -33,8 +33,6 @@
             src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width="100"><img
             <img 
             src="https://seeklogo.com/images/M/microsoft-excel-logo-F8C90B4427-seeklogo.com.png" width="120"><img
-            <img 
-            src="https://www.r-project.org/logo/Rlogo.svg" width="150"><img
             src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png" width="100"><img 
             src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="120"><!--<img src=https://media3.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif width="105"><img src=https://media4.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif width="105">--></p>
   
