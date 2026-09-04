@@ -11,8 +11,7 @@
                               📌With a strong foundation in data analysis and a passion for uncovering trends, 
                                     I ensure that data-driven decisions are both informed and impactful.
                                     
-                                              I'm looking fordware to become a Data Scientist🧪
-
+                                         
 <p></p>
 <br><br>
 
