@@ -47,7 +47,7 @@
 <p align="center">
 
 
-- 🌱 LEARNING --> PYTHON, STATISTICS, CALCULUS, LINEAR ALGEBRA, MACHINE LEARNING, DEEP LEARNING <--
+- 🌱 LEARNING --> PYTHON, STATISTICS, CALCULUS, LINEAR ALGEBRA <--
 - 💬 Ask me about Whatever field related to Languages
 - ⚡ Fun fact: I love Hawaiian pizza
 
